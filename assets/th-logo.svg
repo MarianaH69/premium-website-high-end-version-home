@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="118" viewBox="0 0 620 118" role="img" aria-labelledby="title desc">
+  <title id="title">TH Tony Heneine Certified Public Accountant</title>
+  <desc id="desc">Muted emerald and gray TH logo with Tony Heneine wordmark.</desc>
+  <rect x="0" y="8" width="96" height="96" fill="#4f8f82"/>
+  <path d="M18 25h60v18H58v44H38V43H18z" fill="#fff"/>
+  <path d="M118 8h27v38h43V8h27v96h-27V65h-43v39h-27z" fill="#777b80"/>
+  <rect x="244" y="8" width="4" height="96" fill="#55585d"/>
+  <text x="282" y="48" font-family="Inter, Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#2f3033">Tony Heneine</text>
+  <text x="282" y="86" font-family="Inter, Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#777b80">Certified Public Accountant</text>
+</svg>

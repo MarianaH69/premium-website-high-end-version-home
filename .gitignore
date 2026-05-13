@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local dependencies, if added later
+node_modules/
+
+# Temporary archives
+*.zip
